@@ -68,7 +68,7 @@ h1, h2{
 #hero-image{
     height:600px;
     width: 100%;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center center;
+    background: url("../image/hero-image.webp") no-repeat center center;
 
     /* Animates zoom effect on loading the page */
     animation-name: hero-zoom;
@@ -184,7 +184,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png") no-repeat center center;
+    background: url("../image/ethos-center-image.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -192,7 +192,7 @@ hr {
 /* Event times */
 
 #times{
-    background-image: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/dublin-city.png");
+    background-image: url("../image/dublin-city.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
